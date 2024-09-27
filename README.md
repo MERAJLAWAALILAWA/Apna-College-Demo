@@ -1,4 +1,4 @@
 # Apna-College-Demo
 This is my First Git Repository.
 <br>
-Author - Meraj Malik
+Author - Meraj (Ali)
